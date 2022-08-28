@@ -30,6 +30,7 @@ marketing  emails
 marketing  email  drip
 ● org_id:   the  organization  (group  of  users)  they  belong  to
 ● invited_by_user_id:   which  user  invited  them  to  join  (if  applicable).
+
 2]  A  usage  summary  table  ( "takehome_user_engagement" )  that  has  a  row  for  each  day
 that  a  user  logged  into  the  product.
 Defining  an  "adopted  user"   as  a  user  who   has  logged  into  the  product  on  three  separate
