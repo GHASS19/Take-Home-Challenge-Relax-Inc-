@@ -18,11 +18,9 @@ product  in  the  last  two  years.   This  table  includes:
 
 ● creation_source:   how  their  account  was  created.  This  takes  on  one
 of  5  values:
-
-   ○ PERSONAL_PROJECTS:  invited  to  join  another  user's
+ ○ PERSONAL_PROJECTS:  invited  to  join  another  user's
 personal  workspace
-
-   ○ GUEST_INVITE:  invited  to  an  organization  as  a  guest
+○ GUEST_INVITE:  invited  to  an  organization  as  a  guest
 (limited  permissions)
     ○ ORG_INVITE:  invited  to  an  organization  (as  a  full  member)
      ○ SIGNUP:  signed  up  via  the  website
