@@ -5,6 +5,7 @@ The  data  is  available  as  two  attached  CSV  files:
 takehome_user_engagement. csv
 takehome_users . csv
 The  data  has  the  following  two  tables:
+
 1]  A  user  table  ( "takehome_users" )  with  data  on  12,000  users  who  signed  up  for  the
 product  in  the  last  two  years.   This  table  includes:
 ● name:  the  user's  name
