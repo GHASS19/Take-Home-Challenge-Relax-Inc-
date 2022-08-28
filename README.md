@@ -22,7 +22,7 @@ of  5  values:
  1. PERSONAL_PROJECTS:  invited  to  join  another  user's
 personal  workspace
 
-2.. GUEST_INVITE:  invited  to  an  organization  as  a  guest
+ 2. GUEST_INVITE:  invited  to  an  organization  as  a  guest
 (limited  permissions)
 
  3. ORG_INVITE:  invited  to  an  organization  (as  a  full  member)
