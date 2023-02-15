@@ -5,7 +5,8 @@ A take home data science challenge from Relax Inc. (anonymized real company). Pr
 ### Analysis
 I analyzed user retention data of a of Relax, Inc. I also found which factors that were important to creating user retention.
 
-
+1. 
+![image](https://user-images.githubusercontent.com/86930309/218946378-36d4b5f5-3516-4e93-943f-cab7cd259e39.png)
 The accounts that were created as a full member were more inclined to to be an adopted user than any other type that was created.
 
 
