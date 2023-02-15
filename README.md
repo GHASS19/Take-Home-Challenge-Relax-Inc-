@@ -19,13 +19,13 @@ The accounts that were created as a full member were more inclined to to be an a
 
 The highest positive correlation was "enabled for marketing drip" and "opted into mailing list" at .48.
 
-3. Grid Search CV for Random Forest Classifier
+3. An average of .6655 from the Grid Search CV.
+
+Grid Search CV for Random Forest Classifier
 GridSearchCV(estimator=RandomForestClassifier(class_weight='balanced',
                                               min_samples_split=3,
                                               random_state=42),
              param_grid={'n_estimators': [10, 50, 100, 200]})
-
-An average of .6655 from the Grid Search CV.
 
 4. Feature Importance
 invited_by_user_id            0.971558
