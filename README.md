@@ -12,6 +12,7 @@ The accounts that were created as a full member were more inclined to to be an a
 
 2.
 ![image](https://user-images.githubusercontent.com/86930309/218946472-6e2d7ce6-f63a-4941-9606-c553681075f8.png)
+
 The highest positive correlation was "enabled for marketing drip" and "opted into mailing list" at .48.
 
 3. Grid Search CV for Random Forest Classifier
@@ -20,6 +21,21 @@ GridSearchCV(estimator=RandomForestClassifier(class_weight='balanced',
                                               random_state=42),
              param_grid={'n_estimators': [10, 50, 100, 200]})
 An average of .6655 from the Grid Search CV.
+
+4. Feature Importance
+invited_by_user_id            0.971558
+opted_in_to_mailing_list      0.009010
+enabled_for_marketing_drip    0.008225
+GUEST_INVITE                  0.003835
+ORG_INVITE                    0.002402
+PERSONAL_PROJECTS             0.002265
+SIGNUP_GOOGLE_AUTH            0.001443
+SIGNUP                        0.001261
+
+5. Accuracy and Precision Score
+Accuracy Score is: 0.7052777777777778
+Precision Score is: 0.15441176470588236
+Not the best but sometimes it is hard to predict a dependant variable from the data.
 
 ### File structure
 - The questions can be found in the [Directions](https://github.com/GHASS19/GHASS19-Take-Home-Challenge-Relax-Inc-/blob/main/Relax%20Directions.pdf)
