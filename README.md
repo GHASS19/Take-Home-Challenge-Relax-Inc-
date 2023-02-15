@@ -29,16 +29,24 @@ GridSearchCV(estimator=RandomForestClassifier(class_weight='balanced',
 
 4. Feature Importance
 invited_by_user_id            0.971558
+
 opted_in_to_mailing_list      0.009010
+
 enabled_for_marketing_drip    0.008225
+
 GUEST_INVITE                  0.003835
+
 ORG_INVITE                    0.002402
+
 PERSONAL_PROJECTS             0.002265
+
 SIGNUP_GOOGLE_AUTH            0.001443
+
 SIGNUP                        0.001261
 
 5. Accuracy and Precision Score
 Accuracy Score is: 0.7052777777777778
 Precision Score is: 0.15441176470588236
+
 Not the best but sometimes it is hard to predict a dependant variable from the data.
 
