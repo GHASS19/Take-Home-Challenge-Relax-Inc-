@@ -9,17 +9,17 @@ A take home data science challenge from Relax Inc. (anonymized real company). Pr
 ### Analysis
 I analyzed user retention data of a of Relax, Inc. I also found which factors that were important to creating user retention. Here is what I found:
 
-1. 
+### 1. 
 ![image](https://user-images.githubusercontent.com/86930309/218946378-36d4b5f5-3516-4e93-943f-cab7cd259e39.png)
 
 The accounts that were created as a full member were more inclined to to be an adopted user than any other type that was created.
 
-2.
+### 2.
 ![image](https://user-images.githubusercontent.com/86930309/218946472-6e2d7ce6-f63a-4941-9606-c553681075f8.png)
 
 The highest positive correlation was "enabled for marketing drip" and "opted into mailing list" at .48.
 
-3. An average of .6655 from the Grid Search CV.
+### 3. An average of .6655 from the Grid Search CV.
 
 Grid Search CV for Random Forest Classifier
 GridSearchCV(estimator=RandomForestClassifier(class_weight='balanced',
@@ -27,8 +27,8 @@ GridSearchCV(estimator=RandomForestClassifier(class_weight='balanced',
                                               random_state=42),
              param_grid={'n_estimators': [10, 50, 100, 200]})
 
-4. Feature Importance
-5. 
+### 4. Feature Importance
+ 
 invited_by_user_id         =   0.971558
 
 opted_in_to_mailing_list    =  0.009010
@@ -45,7 +45,7 @@ SIGNUP_GOOGLE_AUTH        =    0.001443
 
 SIGNUP                  =      0.001261
 
-5. Accuracy and Precision Score
+### 5. Accuracy and Precision Score
 
 Accuracy Score is: 0.7052777777777778
 
