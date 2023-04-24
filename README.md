@@ -8,7 +8,7 @@ A take home data science challenge from Relax Inc. (anonymized real company). Pr
 - The two datasets can be found [here](https://github.com/GHASS19/GHASS19-Take-Home-Challenge-Relax-Inc-/tree/main/Data)
 
 ### Analysis
-I analyzed user retention data of a of Relax, Inc. I also found which factors that were important to creating user retention. Here is what I found:
+I analyzed user retention data of a of Relax, Inc. I also found which factors that were important to creating user retention. We want to understand the traits of those who are retained and why some users do not come back. Here is what I found:
 
 ### 1. Graph of how the Account was created
 ![image](https://user-images.githubusercontent.com/86930309/218946378-36d4b5f5-3516-4e93-943f-cab7cd259e39.png)
